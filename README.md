@@ -1,6 +1,6 @@
-# 📊 Data Portfolio
+# 📊 Sisanda's Data Portfolio
 
-Welcome to my data portfolio! This repository showcases my work in **Power BI** and **Data Engineering**, including dashboards, ETL pipelines, and data workflows.
+Hi there. Welcome to my data portfolio This repository showcases my work in **Power BI** and **Data Engineering**, including dashboards, ETL pipelines, and data workflows.
 
 ---
 
