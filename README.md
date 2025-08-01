@@ -1,46 +1,47 @@
-# 📊 Sisanda's Data Portfolio
+﻿# 📊 Sisanda's Data Portfolio
 
-Hi there. Welcome to my data portfolio This repository showcases my work in **Power BI** and **Data Engineering**, including dashboards, ETL pipelines, and data workflows.
-
----
-
-## 🔷 Power BI Projects
-
-### 1. [Project Title]
-**Description**: Brief overview of the business problem and insights derived.  
-**Tools Used**: Power BI, Excel, DAX  
-**Dashboard Link**: [Insert link or screenshot]  
-**Repository**: [Link to .pbix file or GitHub folder]
-
----
-
-### 2. [Project Title]
-**Description**: Brief overview of the business problem and insights derived.  
-**Tools Used**: Power BI, SQL Server  
-**Dashboard Link**: [Insert link or screenshot]  
-**Repository**: [Link to .pbix file or GitHub folder]
-
----
-
-## ⚙️ Data Engineering Projects
-
-### 1. [Project Title]
-**Description**: Overview of the data pipeline, sources, and transformations.  
-**Tools Used**: Python, Apache Airflow, PostgreSQL  
-**Code Repository**: [Link to scripts or notebooks]  
-**Architecture Diagram**: [Insert image or link]
-
----
-
-### 2. [Project Title]
-**Description**: Overview of the data ingestion and processing workflow.  
-**Tools Used**: Spark, AWS S3, Glue  
-**Code Repository**: [Link to scripts or notebooks]  
-**Architecture Diagram**: [Insert image or link]
+Hi there, welcome to my data portfolio. This repository showcases my skills and work in **Power BI** and **Data Engineering**, including dashboards, ETL pipelines, and data workflows.
 
 ---
 
 ## 📁 About Me
 
-I'm passionate about turning data into actionable insights and building scalable data solutions.  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or check out my other projects!
+👩🏾‍💻 Just your friendly neighborhood data enthusiast, crunching numbers and chasing insights!  
+I’m all about turning messy data into “aha!” moments. Whether it's slicing cricket stats or decoding panic attack patterns, I live for digging into the data and telling stories with it—charts, dashboards, queries and all. Always learning and forever curious.  
+Let’s connect on [LinkedIn](https://www.linkedin.com) and talk all things data (or cricket, or T-shirts... you’ll see why)! 🏏👕📊
+
+---
+
+## 🔷 Power BI Data Analyst Projects
+
+### 1. 🏏 South Africa vs India Cricket Data Analysis
+**Description**: A deep-dive analysis into South Africa vs India cricket match data—batting, bowling, and fielding stats per player. Data was gathered from ESPN using web scraping techniques.  
+**Tools Used**: Power BI, PowerQuery, DAX (LOOKUPVALUE, RANKX, POWER, ABS)  
+**Highlights**: Player-level insights such as number of runs, wickets, and rankings.  
+**Dashboard Link**: [Insert link or screenshot]  
+**Repository**: [Link to .pbix file or GitHub folder]
+
+---
+
+### 2. 🧠 Panic Attack Analysis
+**Description**: A private company wanted to raise awareness on Panic Attacks. I was tasked with analysing data on attack duration, age groups, and triggers to help surface trends and key insights.  
+**Tools Used**: Power BI, Snowflake, PowerQuery, DAX (IF/SWITCH, COUNTROWS, FILTER, DIVIDE)  
+**Highlights**: Insights into triggers per age group, durations, and frequency. Screenshots of the transformation and DAX logic included.  
+**Dashboard Link**: [Insert link or screenshot]  
+**Repository**: [Link to .pbix file or GitHub folder]
+
+---
+
+### 3. 👕 Men's T-Shirt Sales Analysis
+**Description**: A report exploring sales performance of various men’s T-shirt brands in a local store. Data was partially cleaned in Azure SQL and connected directly to Power BI.  
+**Tools Used**: Azure SQL, Power BI, PowerQuery, DAX (custom discount %, profit %, cost price calculations)  
+**Highlights**: Top 5 brands by average sales price, profit %, and sales metrics. Screenshots included to show transformation steps.  
+**Dashboard Link**: [Insert link or screenshot]  
+**Repository**: [Link to .pbix file or GitHub folder]
+
+---
+
+
+
+
+
