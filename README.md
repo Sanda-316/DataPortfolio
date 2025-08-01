@@ -1,4 +1,6 @@
-﻿# 📊 Sisanda's Data Portfolio
+<img src="https://github.com/Sanda-316/DataPortfolio25/blob/main/Sisanda's%20Dynamic%20Data%20World.png?raw=true" alt="Sisanda's Data Playground Banner" width="100%">
+
+ # 📊 Sisanda's Data Portfolio
 
 Hi there, welcome to my data portfolio. This repository showcases my skills and work in **Power BI** and **Data Engineering**, including dashboards, ETL pipelines, and data workflows.
 
