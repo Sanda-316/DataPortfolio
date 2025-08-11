@@ -1,8 +1,3 @@
-
----
-
-## 📂 **2. PowerBIProjects/PanicAttackInsights/README.md**
-```markdown
 # 🧠 Panic Attack Insights Dashboard
 
 This Power BI report explores data on panic attacks to identify **patterns, triggers, and durations**.
@@ -21,6 +16,11 @@ This Power BI report explores data on panic attacks to identify **patterns, trig
 ---
 
 ## 📸 Dashboard Preview
-> Add your screenshot here  
-```markdown
 ![Panic Dashboard](screenshots/panic-dashboard.png)
+
+---
+
+## 🧠 Key Insights
+- People aged 20–29 experience the longest average panic attacks
+- Common triggers include stress, caffeine, and work deadlines
+- Certain triggers are more prevalent in specific age groups
