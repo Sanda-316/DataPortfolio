@@ -1,8 +1,3 @@
-
----
-
-## 📂 **3. PowerBIProjects/TShirtSalesReport/README.md**
-```markdown
 # 👕 Men's T-Shirt Sales Analysis
 
 This Power BI report analyzes **sales performance** of various men's T-shirt brands in a retail store.
@@ -21,6 +16,11 @@ This Power BI report analyzes **sales performance** of various men's T-shirt bra
 ---
 
 ## 📸 Dashboard Preview
-> Add your screenshot here  
-```markdown
 ![T-Shirt Dashboard](screenshots/tshirt-dashboard.png)
+
+---
+
+## 🧠 Key Insights
+- Higher discounts above 20% reduce profit margins significantly
+- Brand X leads in profit %, Brand Y dominates in volume
+- Price vs. quantity trends vary greatly by brand
