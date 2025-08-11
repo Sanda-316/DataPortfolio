@@ -17,6 +17,12 @@ This Power BI report analyzes player performance from matches between South Afri
 ---
 
 ## 📸 Dashboard Preview
-> Add your screenshot here  
-```markdown
 ![Cricket Dashboard](screenshots/dashboard-view.png)
+
+---
+
+## 🧠 Key Insights
+- Top 5 performing players ranked using `RANKX`
+- Strong correlation between batting average and win probability
+- Player-specific performance trends across matches
+
