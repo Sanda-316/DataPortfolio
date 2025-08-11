@@ -1,1 +1,48 @@
-https://github.com/Sanda-316/DataPortfolio25/blob/main/SA%20vs%20India%20Cricket%20Analysis.pbix
+# 🏏 South African Cricket Data Analysis
+
+This project presents an in-depth analysis of South African cricket performance using data scraped from ESPN's website.  
+The data was processed and visualized in a Power BI dashboard, highlighting key metrics across batting, bowling, and fielding.
+
+---
+
+## 📌 Project Overview
+
+- **Data Source**: ESPN Cricinfo (via web scraping)
+- **Tools Used**: Python (for scraping), Power BI (for visualization)
+- **Focus Areas**:
+  - Batting performance metrics
+  - Bowling statistics
+  - Fielding contributions
+
+---
+
+## 🔗 Power BI Dashboard
+
+You can view or download the Power BI dashboard file here:
+
+👉 [SA vs India Cricket Analysis.pbix](https://github.com/Sanda-316/DataPortfolio25/raw/main/SA%20vs%20India% process, Power BI dashboard, and visualizations below:
+
+### 🔹 Web Scraping Process
+!Web Scraping Screenshot
+
+### 🔹 Power BI Dashboard Overview
+!Dashboard Screenshot
+
+### 🔹 Batting Metrics
+!Batting Metrics
+
+### 🔹 Bowling Metrics
+!Bowling Metrics
+
+### 🔹 Fielding Metrics
+!Fielding Metrics
+
+---
+
+## 🧠 DAX Calculations
+
+Include key DAX formulas used in your Power BI dashboard here:
+
+```DAX
+-- Example DAX formula
+Total Runs = SUM(Batting[Runs])
