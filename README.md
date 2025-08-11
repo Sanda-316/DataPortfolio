@@ -17,30 +17,13 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/sisanda-m-sibanda-7a2b
 
 ## 🔷 Power BI Data Analyst Projects
 
-### 1. 🏏 South Africa vs India Cricket Data Analysis
-**Description**: A deep-dive analysis into South Africa vs India cricket match data—batting, bowling, and fielding stats per player. Data was gathered from ESPN using web scraping techniques.  
-**Tools Used**: Power BI, PowerQuery, DAX (LOOKUPVALUE, RANKX, POWER, ABS)  
-**Highlights**: Player-level insights such as number of runs, wickets, and rankings.  
-**Dashboard Link**: [Insert link or screenshot]  
-**Repository**: [Link to .pbix file or GitHub folder]
+## 📊 Power BI Projects
 
----
-
-### 2. 🧠 Panic Attack Analysis
-**Description**: A private company wanted to raise awareness on Panic Attacks. I was tasked with analysing data on attack duration, age groups, and triggers to help surface trends and key insights.  
-**Tools Used**: Power BI, Snowflake, PowerQuery, DAX (IF/SWITCH, COUNTROWS, FILTER, DIVIDE)  
-**Highlights**: Insights into triggers per age group, durations, and frequency. Screenshots of the transformation and DAX logic included.  
-**Dashboard Link**: [Insert link or screenshot]  
-**Repository**: [Link to .pbix file or GitHub folder]
-
----
-
-### 3. 👕 Men's T-Shirt Sales Analysis
-**Description**: A report exploring sales performance of various men’s T-shirt brands in a local store. Data was partially cleaned in Azure SQL and connected directly to Power BI.  
-**Tools Used**: Azure SQL, Power BI, PowerQuery, DAX (custom discount %, profit %, cost price calculations)  
-**Highlights**: Top 5 brands by average sales price, profit %, and sales metrics. Screenshots included to show transformation steps.  
-**Dashboard Link**: [Insert link or screenshot]  
-**Repository**: [Link to .pbix file or GitHub folder]
+| Project | Preview | Description | Tools & Techniques |
+|---------|---------|-------------|--------------------|
+| [🏏 **Cricket Analysis**](PowerBIProjects/CricketAnalysis) | ![Cricket Dashboard](PowerBIProjects/CricketAnalysis/screenshots/dashboard-view.png) | Player-level analysis of South Africa vs India matches, covering batting, bowling, and fielding stats. | Power BI, PowerQuery, DAX (`LOOKUPVALUE`, `RANKX`, `POWER`, `ABS`), Web Scraping |
+| [🧠 **Panic Attack Insights**](PowerBIProjects/PanicAttackInsights) | ![Panic Dashboard](PowerBIProjects/PanicAttackInsights/screenshots/panic-dashboard.png) | Analysis of panic attack patterns, triggers, and durations, segmented by age group. | Power BI, Snowflake, PowerQuery, DAX (`IF`, `SWITCH`, `COUNTROWS`, `FILTER`, `DIVIDE`) |
+| [👕 **Men's T-Shirt Sales Report**](PowerBIProjects/TShirtSalesReport) | ![T-Shirt Dashboard](PowerBIProjects/TShirtSalesReport/screenshots/tshirt-dashboard.png) | Sales and profitability insights for men’s T-shirt brands, including top brands by price and profit %. | Power BI, Azure SQL, PowerQuery, DAX (custom `Discount %`, `Profit %`, `Cost Price`) |
 
 ---
 
