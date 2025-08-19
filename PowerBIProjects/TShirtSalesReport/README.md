@@ -21,6 +21,6 @@ This Power BI report analyzes **sales performance** of various men's T-shirt bra
 ---
 
 ## 🧠 Key Insights
-- Higher discounts above 20% reduce profit margins significantly
-- Brand X leads in profit %, Brand Y dominates in volume
-- Price vs. quantity trends vary greatly by brand
+- The highest average discount of 94% is by the barnd U.S Polo Assn.
+- The Average profit frot he top 5 brands ranges between 16%-17%
+- Cantabil and Instatab Plus both have the highest average sales price of 900
