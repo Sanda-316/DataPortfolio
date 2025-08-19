@@ -21,6 +21,6 @@ This Power BI report explores data on panic attacks to identify **patterns, trig
 ---
 
 ## 🧠 Key Insights
-- People aged 20–29 experience the longest average panic attacks
-- Common triggers include stress, caffeine, and work deadlines
-- Certain triggers are more prevalent in specific age groups
+- Only 4 patients have 9 hour of sleep, where 2 of these patients have a Phobia or Caffiene as a trigger for their panic attack
+- Of 1200 patients, 836 experience Sweating as a symptom of their panic attacks
+- Of the adolescent patients with Social Anxiety , the average sleep hours is 6.5hr, with an average panic score of 5.1 and a panic attack freqency of 4.5. This is slightly higher than the Adult patients with Social Anxiety.
