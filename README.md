@@ -40,7 +40,7 @@ This project automates the extraction, transformation, and loading (ETL) of glob
 **Description**:  
 In this project, I built an automated ETL pipeline for a research organization to compile, transform, and store data on the top 10 largest banks in the world by market capitalization. The pipeline extracts the latest bank rankings (in USD), transforms values into GBP, EUR, and INR using exchange rates from a CSV file, and loads the results into both a CSV and a SQLite database. The system is designed for quarterly automated execution.  
 **Tools Used**: Python, Pandas, Requests, SQLite3, Logging  
-**Code Repository**: [DataPortfolio/DataEngineeringProjects](https://github.com/Sanda-316/DataPortfolio/tree/main/DataEngineeringProjects)  
+**Code Repository**: [[DataPortfolio/DataEngineeringProjects](https://github.com/Sanda-316/DataPortfolio/tree/main/DataEngineeringProjects) ](https://github.com/Sanda-316/DataPortfolio/tree/main/DataEngineeringProjects/ETL_World's_Largest_Banks) 
 
 
 
