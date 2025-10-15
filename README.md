@@ -32,7 +32,7 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/sisanda-m-sibanda-7a2b
 **Description**:  
 This project automates the extraction, transformation, and loading (ETL) of global GDP data from the International Monetary Fund (IMF) website. The pipeline fetches the latest GDP figures by country, rounds GDP values to two decimal places, and loads the cleaned data into both a JSON file and a SQLite database. It also logs the ETL process and runs a validation query to display countries with GDPs over 100 billion USD.  
 **Tools Used**: Python, Pandas, BeautifulSoup4, SQLite3, Logging  
-**Code Repository**: https://github.com/Sanda-316/DataPortfolio/tree/main/DataEngineeringProjects/GDP_ETL_Pipeline
+**Code Repository**: [GDP_ETL_Pipeline](https://github.com/Sanda-316/DataPortfolio/tree/main/DataEngineeringProjects/GDP_ETL_Pipeline)
 
 ---
 
@@ -40,7 +40,7 @@ This project automates the extraction, transformation, and loading (ETL) of glob
 **Description**:  
 In this project, I built an automated ETL pipeline for a research organization to compile, transform, and store data on the top 10 largest banks in the world by market capitalization. The pipeline extracts the latest bank rankings (in USD), transforms values into GBP, EUR, and INR using exchange rates from a CSV file, and loads the results into both a CSV and a SQLite database. The system is designed for quarterly automated execution.  
 **Tools Used**: Python, Pandas, Requests, SQLite3, Logging  
-**Code Repository**: [[DataPortfolio/DataEngineeringProjects](https://github.com/Sanda-316/DataPortfolio/tree/main/DataEngineeringProjects) ](https://github.com/Sanda-316/DataPortfolio/tree/main/DataEngineeringProjects/ETL_World's_Largest_Banks) 
+**Code Repository**: [ETL_World's_Largest_Banks](https://github.com/Sanda-316/DataPortfolio/tree/main/DataEngineeringProjects/ETL_World%27s_Largest_Banks)
 
 
 
