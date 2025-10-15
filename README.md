@@ -32,7 +32,7 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/sisanda-m-sibanda-7a2b
 **Description**:  
 This project automates the extraction, transformation, and loading (ETL) of global GDP data from the International Monetary Fund (IMF) website. The pipeline fetches the latest GDP figures by country, rounds GDP values to two decimal places, and loads the cleaned data into both a JSON file and a SQLite database. It also logs the ETL process and runs a validation query to display countries with GDPs over 100 billion USD.  
 **Tools Used**: Python, Pandas, BeautifulSoup4, SQLite3, Logging  
-**Code Repository**: [DataPortfolio/DataEngineeringProjects](https://github.com/Sanda-316/DataPortfolio/tree/main/DataEngineeringProjects) 
+**Code Repository**: https://github.com/Sanda-316/DataPortfolio/tree/main/DataEngineeringProjects/GDP_ETL_Pipeline
 
 ---
 
